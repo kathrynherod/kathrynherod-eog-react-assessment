@@ -15,7 +15,7 @@ Read more about this assessment [here](https://react.eogresources.com)
 
 ## TODO:
 - [x] Task 1 - Commit bootstrapped app
-- [ ] Task 2 - Create Dashboard placeholder component and choose/install chart addon
+- [x] Task 2 - Create Dashboard placeholder component and choose/install chart addon
 - [ ] Task 3 - Integrate GraphQL queries for metrics and add to store/redux
 - [ ] Task 4 - Add some type of selector to dashboard with metrics options
 - [ ] Task 5 - integrate selector with appropriate chart data
